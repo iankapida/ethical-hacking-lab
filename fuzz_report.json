@@ -1,0 +1,12 @@
+[
+    {
+        "path": "/.env",
+        "status_code": 200,
+        "timestamp": "2026-11-09T09:25:01.405804+00:00"
+    },
+    {
+        "path": "/robots.txt",
+        "status_code": 200,
+        "timestamp": "2026-11-09T09:25:01.410287+00:00"
+    }
+]
